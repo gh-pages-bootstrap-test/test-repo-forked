@@ -1,2 +1,2 @@
-# test-repo-org
-Empty testing repository for gh-pages-bootstrap, owned by an organization
+# test-repo-forked
+Empty testing repository for gh-pages-bootstrap, forked from somewhere else
